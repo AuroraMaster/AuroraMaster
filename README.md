@@ -45,6 +45,15 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMaster/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
+
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=flag-india)](https://github.com/AuroraMaster/github-readme-stats) -->
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
@@ -128,18 +137,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-  <div>
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=AuroraMaster&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
 </div>
 
 #  🙋 Hello
