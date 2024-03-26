@@ -201,10 +201,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
@@ -251,15 +248,13 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
-<table>
+<!-- <table> -->
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-</table>
+<!-- </table> -->
 
 <!-- second form 第二个表格 -->
 <table>
