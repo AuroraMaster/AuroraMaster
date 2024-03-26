@@ -119,23 +119,10 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 </table>
 
 <br/>
-<div align="center">
-  <a href="https://raw.githubusercontent.com/AuroraMaster/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
+
 
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -530,4 +517,13 @@ Mac                      24 hrs 57 mins      ███████████�
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/icon.png" /></div>
+</div>
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/AuroraMaster/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
+        align="center"
+    />
+  </a>
 </div>
