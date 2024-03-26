@@ -53,7 +53,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-  
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=flag-india)](https://github.com/AuroraMaster/github-readme-stats) -->
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
@@ -143,106 +143,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 <table>
 
-<tr><td>
-
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-
-<tr><td>
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/artist.png" />
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>读过认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='https://book.douban.com/subject/27040433/' target='_blank'>最近在读极简主义</a> 🌟🌟🌟🌟🌟 力荐- 2023-11-10
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
-
-</td></tr>
-
-<tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AuroraMaster&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=AuroraMaster&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AuroraMaster&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                501 commits         ███████░░░░░░░░░░░░░░░░░░   28.35 %
-🌆 Daytime                544 commits         ████████░░░░░░░░░░░░░░░░░   30.79 %
-🌃 Evening                429 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-```
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday                   163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Wednesday                255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Thursday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.86 %
-Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages:
-Python                   10 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   41.49 %
-Vue.js                   6 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 %
-TypeScript               3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Docker                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-
-🔥 Editors:
-VS Code                  24 hrs 57 mins      █████████████████████████   100.00 %
-
-💻 Operating System:
-Mac                      24 hrs 57 mins      █████████████████████████   100.00 %
-```
-
-
- Last Updated on 26/03/2024 01:14:55 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
 
 </table>
 
