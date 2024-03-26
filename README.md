@@ -58,6 +58,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
+[<span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&show_icons=true/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&layout=compact" height=145" height=145/></span>](https://blog.i-xiao.space/)
+
 <!--
 <table border="0">
 <tr>
