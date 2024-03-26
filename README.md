@@ -149,16 +149,11 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/github.webp">
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
