@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: AuroraMaster/Social-Readme@main
         with:
           blog_rss_link: https://blog.sunguoqi.com/rss.xml
           blog_limit: 5 # blog数量
@@ -18,4 +18,4 @@ jobs:
           douban_name: sunguoqi
           douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated social rss by social-readme # commit说明
-          
+
