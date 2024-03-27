@@ -56,7 +56,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=flag-india)](https://github.com/AuroraMaster/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=radical&layout=compact" height=100/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&theme=radical&show_icons=true" height=100/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=radical&layout=compact" height=120/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&theme=radical&show_icons=true" height=120/></span>](https://blog.i-xiao.space/)
 
 
 
@@ -114,14 +114,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 <br/>
 
 
-<!-- <div align="center">
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-</div> -->
-
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
@@ -134,7 +126,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
