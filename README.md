@@ -126,17 +126,17 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
+<!-- <img width="100%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" /> -->
 
 <!-- GitHub metrics 信息指标 -->
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- profile-3d-contrib 3D 贡献图-->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+</picture> -->
 
 </div>
 
