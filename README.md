@@ -69,9 +69,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 </td>
 </tr>
 </table>
--->
 
-<!--
+
+<!-- -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&layout=compact)
 ![AuroraMaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraMaster&show_icons=true)
 -->
@@ -171,14 +171,13 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 <div align="center">
 
 
-<!-- first form 第一个表格 -->
-<table>
+<!-- first form                 followers -->
 
-  <tr>
+  <!-- <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
+  </tr> -->
 
-</table>
+
 
 
 <!-- ########################################## 分割 ########################################## -->
