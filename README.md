@@ -172,11 +172,13 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 
 <!-- first form 第一个表格 -->
-<!-- <table> -->
+<table>
+
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-<!-- </table> -->
+
+</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
