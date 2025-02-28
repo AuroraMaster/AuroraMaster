@@ -11,14 +11,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # 基础信息（顺带了几个小插件）
+      # 基础信息
       - name: base
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/base.svg
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
           user: AuroraMaster
           template: classic
           base: header, activity, community, repositories, metadata
@@ -36,87 +34,91 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_introduction: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_stars: yes
-          plugin_stars_limit: 10
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-          # 此插件为文档中的 🧮 Repositories traffic
-          # plugin_traffic: yes
-          # 此插件为文档中的 👨‍💻 Lines of code changed
-          # plugin_lines: yes
-          # 此插件为文档中的 🙋 Introduction
-          # plugin_introduction: yes
-          # 此插件为文档中的 🎫 Gists
-          # plugin_gists: yes
-          # 此插件为文档中的 💫 Star lists
-          # plugin_starlists: yes
-          # plugin_starlists_limit_repositories: 2
-          # plugin_starlists_languages: yes
-          # plugin_starlists_limit_languages: 8
-          # plugin_starlists_only: Awesome
 
-      # 📅 Isometric commit calendar
+      # 年度贡献日历
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # 不添加基础信息
+          user: AuroraMaster
           base: ""
-          # 使用此插件
           plugin_isocalendar: yes
-          # 设置成显示整年
           plugin_isocalendar_duration: full-year
 
-      # 🈷️ Languages activity
-      - name: Indepth analysis
+      # 编程语言统计
+      - name: Languages analysis
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: AuroraMaster
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
+          plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
 
-      # ✨ Stargazers
-      - name: Using chartist charts
+      # Star 趋势图
+      - name: Stars chart
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stargazers.chartist.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: AuroraMaster
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
 
-      # 🌟 Recently starred repositories
-      - name: Recently starred
+      # 最近 Star 的项目
+      - name: Recent stars
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: AuroraMaster
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 10
 
-      # 💡 Coding habits and activity
-      - name: Recent activity charts
+      # 活动习惯统计
+      - name: Activity habits
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: AuroraMaster
           base: ""
           plugin_habits: yes
-          plugin_habits_facts: no
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
+          config_timezone: Asia/Shanghai
+
+      # 最近活动
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AuroraMaster
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, fork, review
+
+      # 成就
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AuroraMaster
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
 
       # 🎟️ Follow-up of issues and pull requests
       - name: Indepth analysis
@@ -180,32 +182,6 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
-
-      # 🏆 Achievements
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
-      # 📰 Recent activity
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
       # 🗨️ Stack Overflow
       - name: Top answers from stackoverflow
