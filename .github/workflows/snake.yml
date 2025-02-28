@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -29,6 +29,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/AuroraMaster/AuroraMaster.git
 
       - name: Commit and Push
         run: |
