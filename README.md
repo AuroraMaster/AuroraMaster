@@ -110,6 +110,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=radical&layout=compact" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
