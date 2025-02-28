@@ -10,13 +10,28 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Update README with WakaTime Metrics
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          USERNAME: AuroraMaster
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          COMMIT_MESSAGE: "📊 更新编程时间统计"
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          SHOW_TOTAL: true
+          SHOW_PROJECTS: true
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/AuroraMaster/AuroraMaster.git
+          git add README.md
+          git commit -m "📊 更新WakaTime统计信息" || echo "No changes to commit"
+          git push origin main
