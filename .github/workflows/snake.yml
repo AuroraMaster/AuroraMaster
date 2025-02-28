@@ -8,9 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          persist-credentials: false
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -20,11 +24,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+        uses: ad-m/github-push-action@master
         with:
-          branch: output
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: main
           force: true
-          message: ':rocket: Update snake animation'
