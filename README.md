@@ -36,7 +36,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://blog.i-xiao.space/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://blog.i-xiao.space/)
 
-- 🌱 I’m currently learning:
+- 🌱 I'm currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://blog.i-xiao.space/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
@@ -110,52 +110,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraMaster&theme=radical&layout=compact" height=130/></span><span><img src="https://github-readme-stats.vercel.app/api?username=AuroraMaster&count_private=true&theme=radical&show_icons=true" height=130/></span>](https://blog.i-xiao.space/)
 
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
-
-<div align="center" >
-
-<!-- GitHub 奖杯🏆 -->
-<div><img src="https://github-profile-trophy.vercel.app/?username=AuroraMaster&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<!-- <img width="100%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" /> -->
-
-<!-- GitHub metrics 信息指标 -->
-<!-- <div align="center"> -->
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture> -->
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" /> -->
-
-<!-- GitHub metrics 信息指标 -->
 <div align="center">
-
-
-<!-- first form                 followers -->
-
-  <!-- <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr> -->
-
-
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/hr.gif" />
-<div align="center">
-</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -166,21 +121,19 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AuroraMa
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AuroraMaster&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuroraMaster&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
+    </td>
   </tr>
 </table>
-
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/icon.png" /></div>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/AuroraMaster/AuroraMaster/assets/images/icon.png" />
 
-<div align="center">
-  <a href="https://raw.githubusercontent.com/AuroraMaster/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
+<a href="https://raw.githubusercontent.com/AuroraMaster/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+  <img
+      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
+      align="center"
+  />
+</a>
 </div>
