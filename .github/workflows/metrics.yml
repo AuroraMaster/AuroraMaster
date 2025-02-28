@@ -10,12 +10,18 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # 基础信息
-      - name: base
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics/base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: AuroraMaster
           template: classic
@@ -34,6 +40,8 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_introduction: yes
+          committer_token: ${{ secrets.GH_TOKEN }}
+          committer_message: "📊 更新GitHub统计信息"
 
       # 年度贡献日历
       - name: Full-year calendar
