@@ -13,7 +13,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite&logoColor=646CFF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
@@ -21,18 +20,15 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-000?&logo=clickhouse&logoColor=FFCC01)
 ![NebulaGraph](https://img.shields.io/badge/-NebulaGraph-000?&logo=nebula&logoColor=00B594)
+![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=A81D33)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian&logoColor=A81D33)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-### Embedded & FPGA
+
+### Embedded 
 
 <a href="https://blog.i-xiao.space/"><img align="right" width="38%" src="code.gif" alt="code" /></a>
 
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi&logoColor=A22846)
 ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
 ![STM32](https://img.shields.io/badge/-STM32-000?&logo=stmicroelectronics&logoColor=03234B)
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-000?&logo=platformio)
@@ -60,16 +56,10 @@
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras&logoColor=D00000)
-![JAX](https://img.shields.io/badge/-JAX-000)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?&logo=huggingface&logoColor=FFD21E)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![ONNX](https://img.shields.io/badge/-ONNX-000?&logo=ONNX)
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![CUDA](https://img.shields.io/badge/-CUDA-000?&logo=NVIDIA&logoColor=76B900)
 
 ### Research & Math
 
