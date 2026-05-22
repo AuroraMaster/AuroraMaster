@@ -27,7 +27,7 @@
 
 ### Embedded 
 
-<a href="https://blog.i-xiao.space/"><img align="right" width="38%" src="code.gif" alt="code" /></a>
+<img align="right" width="38%" src="code.gif" alt="code" />
 
 ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
 ![STM32](https://img.shields.io/badge/-STM32-000?&logo=stmicroelectronics&logoColor=03234B)
